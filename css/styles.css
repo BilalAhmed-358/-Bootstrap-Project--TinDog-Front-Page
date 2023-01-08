@@ -2,6 +2,18 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Montserrat', sans-serif;
+
+    font-weight: 800;
+
+}
+
 #title {
     background-color: #ff4c68;
     color: #fff;
@@ -69,7 +81,6 @@ body {
 }
 
 h3 {
-    font-weight: 800;
     font-size: 1.25rem;
 }
 
@@ -96,7 +107,6 @@ p {
 }
 
 h2 {
-    font-weight: 700;
     font-size: 3rem;
     line-height: 1.5;
 }
@@ -164,7 +174,7 @@ h2 {
 
 #footer {
     text-align: center;
-    margin: 7% 15%;
+    margin: 1% 15%;
 }
 
 #footer button {
